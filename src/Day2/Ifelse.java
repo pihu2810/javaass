@@ -17,6 +17,6 @@ public class Ifelse {
         }
         
         else
-            System.out.println("invalid inpout");
+            System.out.println("Invalid input");
 }
 }

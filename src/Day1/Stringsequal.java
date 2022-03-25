@@ -11,6 +11,7 @@ public class Stringsequal {
 		str1=sc.nextLine();
 		 System.out.println("Enter first String:");
 		 str2=sc.nextLine();
+		 sc.close();
 		 if(str1.equals(str2))
 			 System.out.println("Strings are Equal");	
 		 else

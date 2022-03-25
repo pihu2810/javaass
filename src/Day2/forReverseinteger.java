@@ -16,9 +16,8 @@ public class forReverseinteger {
 		{
 			int digit=input%10;
 			reversed =reversed*10+digit;
-		
 		}
-		System.out.println("Reversed Number:" + reversed);
+      	System.out.println("Reversed Number:" + reversed);
 			
 		}
-	}
+}
